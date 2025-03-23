@@ -42,9 +42,6 @@ The **Institution Management System** is a Java-based terminal application desig
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
 ---
 ✨ Developed by Riddhi Gope.
 
